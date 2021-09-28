@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimmyjg
-- 👀 I’m interested in music
-- 🌱 I’m currently learning Guitar
+- 👀 I’m interested in GitHub Access
+- 🌱 I’m currently learning AWS Toolkit
 - 💞️ I’m looking to collaborate on Cloud
 - 📫 How to reach me Teams
 
